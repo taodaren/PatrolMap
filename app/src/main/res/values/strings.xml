@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PatrolMap</string>
+
+    <string name="txt_tab_map">地图状态</string>
+    <string name="txt_tab_select">已选位置</string>
+    <string name="txt_tab_road">道路管理</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
